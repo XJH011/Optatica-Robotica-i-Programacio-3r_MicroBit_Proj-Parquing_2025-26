@@ -2,8 +2,9 @@ microshield.Servo(microshield.Servos.S0, 0)
 tinkercademy.LED(DigitalPin.P0, OnOff.On)
 tinkercademy.LED(DigitalPin.P1, OnOff.Off)
 tinkercademy.LED(DigitalPin.P2, OnOff.Off)
+basic.showString("PROJECTE SEMAFOR")
 basic.forever(function () {
-    if (pins.digitalReadPin(DigitalPin.P1) == 0) {
+    if (pins.digitalReadPin(DigitalPin.P12) == 0) {
         microshield.Servo(microshield.Servos.S0, 90)
         tinkercademy.LED(DigitalPin.P0, OnOff.Off)
         tinkercademy.LED(DigitalPin.P1, OnOff.On)
@@ -11,7 +12,7 @@ basic.forever(function () {
         tinkercademy.LED(DigitalPin.P1, OnOff.Off)
         tinkercademy.LED(DigitalPin.P2, OnOff.On)
         basic.pause(500)
-        pins.digitalWritePin(DigitalPin.P0, 1)
+        pins.digitalWritePin(DigitalPin.P13, 1)
     }
     microshield.Servo(microshield.Servos.S0, 0)
     tinkercademy.LED(DigitalPin.P0, OnOff.On)
