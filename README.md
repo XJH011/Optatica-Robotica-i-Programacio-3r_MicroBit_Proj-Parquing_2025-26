@@ -1,5 +1,5 @@
 
-> Obre aquesta pàgina a [https://1224huangjin.github.io/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26/](https://1224huangjin.github.io/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26/)
+> Obre aquesta pàgina a [https://xjh011.github.io/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26/](https://xjh011.github.io/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26/)
 
 ## Utilitza-ho com a extensió
 
@@ -8,15 +8,15 @@ Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 * obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * fes clic a **Projecte nou**
 * fes clic a **Extensions** sota el menú de la roda dentada
-* cercar **https://github.com/1224huangjin/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26** i importar
+* cercar **https://github.com/Xjh011/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26** i importar
 
 ## Edita aquest projecte
 
 Per editar aquest repositori a MakeCode.
 
 * obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a ** Importa** i després a ** Importa URL**
-* enganxa **https://github.com/1224huangjin/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26** i clica importar
+* fes clic a **Importa** i després a **Importa URL**
+* enganxa **https://github.com/XJH011/optatica-robotica-i-programacio-3r_microbit_proj-parquing_25-26** i clica importar
 
 #### Metadades (utilitzades per a la cerca, renderització)
 
